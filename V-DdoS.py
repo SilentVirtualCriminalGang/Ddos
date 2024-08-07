@@ -19,7 +19,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet V-DdoS")
+os.system("figlet Ddos Kazi")
 print
 print "Coded By : KAZI ASHRFUZZAMAN "
 print "Author   : CNPI CYBER COMMUNITY"
@@ -29,6 +29,7 @@ print "FB Group : No group!"
 print "Telegram : t.me/Big_Boss_SK"
 print "Join Cracker Space TG Group To Get Premium Apk(s) Free"
 print "Don't copy my code!It's me Kazi the cyber gamer :)"
+print
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
 print
 ip = raw_input("IP Target : ")
